@@ -1,0 +1,565 @@
+{
+    "users": [
+      {
+        "email": "dd@gmail.com",
+        "password": "$2a$10$OV.yoaPir8C49bTCULujOOryJ.K1TVxQosLhnLB774z/9u.agY1NO",
+        "nickName": "哈囉",
+        "id": 9
+      },
+      {
+        "email": "cookieSSS@gmail.com",
+        "password": "$2a$10$AcSlrUoP37m2wOXw23vkoupDS2gJOe5psZuS0iVk/DScPtygVNeOG",
+        "nickName": "cookie",
+        "id": 10
+      },
+      {
+        "email": "aa@gmail.com",
+        "password": "$2a$10$.ouwmaad.KjLUN7euu3igOnCdvpuenH1wAcFXDh.0ypoor2ORvkCG",
+        "nickName": "鴨鴨",
+        "id": 11
+      },
+      {
+        "email": "bb@gmail.com",
+        "password": "$2a$10$5lGewkiGHDiygZh5mCAkfuVOKRfN9sXZgbIyliD/KjZCAOUce1Y6C",
+        "nickName": "bb",
+        "id": 12
+      },
+      {
+        "email": "ee@gmail.com",
+        "password": "$2a$10$YaWW7sqM7AMWRm5X30TNtO4DNR0CyT10aOuFyarL3M5buc5PlqjYO",
+        "nickName": "ee",
+        "id": 13
+      },
+      {
+        "email": "yy@gmail.com",
+        "password": "$2a$10$2ctVZO6Uxl4XZRCxtr82s.VT0M/jTQrqMUhlczruFAoQadoSsD2Aa",
+        "nickName": "yy",
+        "id": 14
+      }
+    ],
+    "stores": [
+      {
+        "id": 1,
+        "name": "自由冰品【白沙鄉】",
+        "description": "開業至今已有數年，不斷研發具有澎湖風味的各式冰品，例如：仙人掌冰、風茹草冰、海芙蓉冰、黑糖蘆薈冰、哈密瓜冰、花生冰等。澎湖仙人掌冰開業至今深受本地人喜愛，觀光客更聞名蜂踴而來，本店並有仙人掌原汁批發，歡迎喜愛冰品者，來店品嚐。",
+        "add": "澎湖縣白沙鄉通梁村39-1號",
+        "region": "澎湖",
+        "tel": "886-6-9931188",
+        "opentime": "星期日~星期一 08:30 - 18:00, 星期三~星期六 8:00 - 21:00",
+        "website": "http://bizph.com/freeice/",
+        "imgUrl": "https://disk.sharelife.tw/gallery/59274-65183/a601140420211816.jpg",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/people/%E8%87%AA%E7%94%B1%E5%86%B0%E5%93%81%E6%BE%8E%E6%B9%96%E4%BB%99%E4%BA%BA%E6%8E%8C%E5%86%B0/100054405493910/"
+        },
+        "equalPrice": 25,
+        "discount": [
+          "一球$25",
+          "兩球$40",
+          "三球$50",
+          "換厚脆皮餅乾加$5"
+        ],
+        "products":[
+        {   
+        "name": "仙人掌冰淇淋",
+        "imgUrl": "https://i.imgur.com/KegSlcf.png",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 1
+        },
+      {
+        "name": "風茹草冰淇淋",
+        "imgUrl": "https://pic.pimg.tw/keigo1209/1327213038-858080214_n.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 2
+      },
+      {
+        "name": "海芙蓉冰淇淋",
+        "imgUrl": "https://pic.pimg.tw/keigo1209/1327213054-22443676_n.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 3
+      },
+      {
+        "name": "黑糖蘆薈冰淇淋",
+        "imgUrl": "https://pic.pimg.tw/keigo1209/1327213068-3310574107_n.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 4
+      },
+      {
+        "name": "香檳蘆薈冰淇淋",
+        "imgUrl": "https://pic.pimg.tw/keigo1209/1327213022-2749300749_n.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 5
+      },
+      {
+        "name": "百香果冰淇淋",
+        "imgUrl": "https://i.imgur.com/drpwLue.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 6
+      },
+      {
+        "name": "哈密瓜冰淇淋",
+        "imgUrl": "https://i.imgur.com/sDkUgmO.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 7
+      },
+      {
+        "name": "芒果冰淇淋",
+        "imgUrl": "https://i.imgur.com/NL2VacK.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 8
+      },
+      {
+        "name": "草莓冰淇淋",
+        "imgUrl": "https://pic.pimg.tw/keigo1209/1327213154-2179207106_wn.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 9
+      },
+      {
+        "name": "葡萄冰淇淋",
+        "imgUrl": "https://www.jfstore.com/images/prod_images/400lrg/icegrape.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 10
+      },
+      {
+        "name": "鳳梨冰淇淋",
+        "imgUrl": "https://pic.pimg.tw/meteresa/1500304011-1121948767_l.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 11
+      },
+      {
+        "name": "南瓜冰淇淋",
+        "imgUrl": "https://pic.pimg.tw/keigo1209/1327213135-495301186_n.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 12
+      },
+      {
+        "name": "冰花冰淇淋",
+        "imgUrl": "https://i.imgur.com/NeeOcg3.png",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 13
+      },
+      {
+        "name": "芋頭冰淇淋",
+        "imgUrl": "https://i.imgur.com/kqUrOAg.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 14
+      },
+      {
+        "name": "花生冰淇淋",
+        "imgUrl": "https://i.imgur.com/oBOUHCN.jpg",
+        "price": 25,
+        "type": "綿綿冰",
+        "id": 15
+      }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "可口冰城【西嶼鄉】",
+        "description": "澎湖可口冰城以有刺總統冰聞名，運用各式澎湖名特產天然野生植物如仙人掌，研發富含營養素之冰品，多家媒體報章雜誌報導，總統先生也來嚐鮮，另設澎湖名特產品展售。",
+        "add": "澎湖縣西嶼鄉大池村130號",
+        "region": "澎湖",
+        "tel": "886-6-9981145",
+        "opentime": "星期一~星期日 09:00~18:00",
+        "website": "http://bizph.com/069981145/",
+        "imgUrl": "https://penghu.fun-taiwan.com/Images/PlayItemPhotos/164779.jpg",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/luck069981145/"
+        },
+        "equalPrice": 60,
+        "discount": [
+          "一份三球$60"
+        ],
+        "products":[
+            {
+                "name": "原味仙人果冰淇淋",
+                "imgUrl": "https://i.imgur.com/2rR46bJ.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 1
+              },
+              {
+                "name": "澎湖哈密瓜冰淇淋",
+                "imgUrl": "https://i.imgur.com/PaVioWt.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 2
+              },
+              {
+                "name": "仙人掌冰淇淋",
+                "imgUrl": "https://i.imgur.com/ccrSDTM.png",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 3
+              },
+              {
+                "name": "黑糖仙人果冰淇淋",
+                "imgUrl": "https://i.imgur.com/dFnhptG.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 4
+              },
+              {
+                "name": "嘉寶瓜冰淇淋",
+                "imgUrl": "https://i.imgur.com/wzbaCAU.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 5
+              },
+              {
+                "name": "蘆薈冰淇淋",
+                "imgUrl": "https://i.imgur.com/pTNdSa7.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 6
+              },
+              {
+                "name": "醉香仙人果冰淇淋",
+                "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa0b/10690961/496063610_m.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 7
+              },
+              {
+                "name": "澎湖土豆冰淇淋",
+                "imgUrl": "https://i.imgur.com/iASgsOo.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 8
+              },
+              {
+                "name": "天人菊冰淇淋",
+                "imgUrl": "https://i.imgur.com/UmJqAX6.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 9
+              },
+              {
+                "name": "仙人果花冰淇淋",
+                "imgUrl": "https://i.imgur.com/Chi1uaH.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 10
+              },
+              {
+                "name": "海芙蓉醉梅冰淇淋",
+                "imgUrl": "https://i.imgur.com/sKMqZ0D.png",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 11
+              },
+              {
+                "name": "澎湖金瓜冰淇淋",
+                "imgUrl": "https://i.imgur.com/IJvq8ON.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 12
+              },
+              {
+                "name": "青菜哇沙米冰淇淋",
+                "imgUrl": "https://i.imgur.com/beMYmh3.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 13
+              },
+              {
+                "name": "楊梅冰淇淋",
+                "imgUrl": "https://i.imgur.com/c69h8VM.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 14
+              },
+              {
+                "name": "紫菜冰淇淋",
+                "imgUrl": "https://i.imgur.com/x5wbx5f.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 15
+              },
+              {
+                "name": "風茹冰淇淋",
+                "imgUrl": "https://i.imgur.com/PW639Se.png",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 16
+              },
+              {
+                "name": "檸檬抹茶冰淇淋",
+                "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa6b/10690961/496067034_m.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 17
+              },
+              {
+                "name": "草莓冰淇淋",
+                "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa9c/10690961/496067595_m.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 18
+              },
+              {
+                "name": "巧克力冰淇淋",
+                "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa0a/10690961/496067705_m.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 19
+              },
+              {
+                "name": "芋頭冰淇淋",
+                "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa68/10690961/496067799_m.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 20
+              },
+              {
+                "name": "咖啡冰淇淋",
+                "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa1a/10690961/496066953_m.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 21
+              },
+              {
+                "name": "玉米冰淇淋",
+                "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aa5b/10690961/496066762_m.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 22
+              },
+              {
+                "name": "芒果冰淇淋",
+                "imgUrl": "https://f.share.photo.xuite.net/aggroport/1f4aac4/10690961/496066867_m.jpg",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 23
+              },
+              {
+                "name": "丁香魚雪辣冰淇淋",
+                "imgUrl": "https://i.imgur.com/J5IOKwo.png",
+                "price": 60,
+                "type": "綿綿冰",
+                "id": 24
+              }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "花蓮觀光糖廠冰品",
+        "description": "來糖廠一定不能錯過的就是花糖冰品，有名的如紅豆牛奶冰及月見冰，皆是來糖廠必點的超熱賣冰品。每日新鮮現煮的大顆紅豆，加上自製的冰，讓遊客一吃成主顧，假日常見大排長龍的遊客等待購買，歡迎您來一同品嚐!若品嚐後意猶未盡，您也可以選購冰淇淋或冰棒宅配回家唷!!水源來自中央山胍的好水質煮沸後，加上糖廠生產的特級砂糖，已具備好吃的基本條件，難得的是尚有盡職的經營人員肯用心研發改良口味，使糖廠冰品特別香純誘人,特別推薦9號碗裝紅豆冰是明星冰品。",
+        "add": "花蓮縣光復鄉大進村糖廠街19號",
+        "region": "花蓮",
+        "tel": "886-3-8703906",
+        "opentime": "每日：08:00～20:00；暑假：08:00～21:00",
+        "website": "https://www.taisugar.com.tw/resting/hualian/CP2.aspx?n=12096",
+        "imgUrl": "https://www.taisugar.com.tw/upload/RelPic/Attractions/99/636587113929191552.jpg",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/hualiensugarfactory"
+        },
+        "equalPrice": 50,
+        "discount": "none",
+        "products":[
+            {
+                "name": "碗裝芥末冰淇淋",
+                "imgUrl": "https://ntufoody.tw/wp-content/uploads/2017/08/1503583205-8e2005149ff2813dff30d8594e66710d.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 1
+              },
+              {
+                "name": "花糖冰棒(紅豆、芋仔、花生、木瓜、綠豆、糯米)",
+                "imgUrl": "https://i.imgur.com/V3m6MkT.jpg",
+                "price": 15,
+                "type": "冰棒",
+                "id": 2
+              },
+              {
+                "name": "脆皮雪糕",
+                "imgUrl": "https://i.imgur.com/Dcw2q2C.jpg",
+                "price": 20,
+                "type": "冰棒",
+                "id": 3
+              },
+              {
+                "name": "碗裝榴槤冰淇淋",
+                "imgUrl": "https://i.imgur.com/4fd29Bx.jpg",
+                "price": 55,
+                "type": "綿綿冰",
+                "id": 4
+              },
+              {
+                "name": "碗裝紅豆冰淇淋（香草+草莓+紅豆）",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105427_17.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 5
+              },
+              {
+                "name": "清冰棒",
+                "imgUrl": "https://i1.wp.com/www.yatravel.tw/wp-content/uploads/2019/09/1079.jpg?resize=696%2C522&ssl=1",
+                "price": 10,
+                "type": "冰棒",
+                "id": 6
+              },
+              {
+                "name": "碗裝紅豆鮮乳冰淇淋",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105424_56.jpg",
+                "price": 55,
+                "type": "綿綿冰",
+                "id": 7
+              },
+              {
+                "name": "脆餅椰奶冰淇淋",
+                "imgUrl": "https://g.udn.com.tw/upfiles/B_CH/chunchch/PSN_PHOTO/590/f_9720590_1.JPG",
+                "price": 55,
+                "type": "綿綿冰",
+                "id": 8
+              },
+              {
+                "name": "碗裝月明冰",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105435_39.jpg",
+                "price": 55,
+                "type": "綿綿冰",
+                "id": 9
+              },
+              {
+                "name": "碗裝夏威夷聖代",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105501_30.jpg",
+                "price": 45,
+                "type": "綿綿冰",
+                "id": 10
+              },
+              {
+                "name": "脆餅瑞香冰淇淋",
+                "imgUrl": "https://i0.wp.com/www.pepelife.com/pic/5/51d1367cbaca79ff81f48ff839319dc1.jpg?w=1500",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 11
+              },
+              {
+                "name": "脆餅薄荷巧克力冰淇淋",
+                "imgUrl": "https://sslife.tw/wp-content/uploads/e3673bd5bc4527f4a12e9759c53203c2.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 12
+              },
+              {
+                "name": "脆餅冰淇淋（香草+草莓）",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105508_97.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 13
+              },
+              {
+                "name": "脆餅巧克力冰淇淋",
+                "imgUrl": "https://leafyeh.com/wp-content/uploads/flickr/6348336647_c8c75e1c20_o.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 14
+              },
+              {
+                "name": "脆餅鮮乳冰淇淋",
+                "imgUrl": "https://i.imgur.com/JZjAkOG.jpg",
+                "price": 55,
+                "type": "綿綿冰",
+                "id": 15
+              },
+              {
+                "name": "脆餅香酥冰淇淋（鮮乳+花生）",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105431_20.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 16
+              },
+              {
+                "name": "脆餅醉香冰淇淋（白蘭地酒冰淇淋）",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105455_38.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 17
+              },
+              {
+                "name": " 脆餅芋仔冰淇淋",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105410_64.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 18
+              },
+              {
+                "name": "脆餅花生冰淇淋",
+                "imgUrl": "https://sslife.tw/wp-content/uploads/af7e1b28c666bfb0c3d61acbda7476ee.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 19
+              },
+              {
+                "name": "脆餅木瓜冰淇淋",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105457_40.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 20
+              },
+              {
+                "name": "碗裝綠茶冰淇淋",
+                "imgUrl": "https://i.imgur.com/cHLX7pf.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 21
+              },
+              {
+                "name": "脆餅芋香冰淇淋",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105521_58.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 22
+              },
+              {
+                "name": "脆餅巧香冰淇淋",
+                "imgUrl": "https://i.imgur.com/S8CPIkR.png",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 23
+              },
+              {
+                "name": "碗裝洛神花冰淇淋",
+                "imgUrl": "https://www.amanda326.com/wp-content/uploads/2019/11/%E8%8A%B1%E8%93%AE%E5%85%89%E5%BE%A9%E7%B3%96%E5%BB%A0-53.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 24
+              },
+              {
+                "name": "脆餅薄荷風味冰淇淋",
+                "imgUrl": "https://i.imgur.com/fLvJQNf.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 25
+              },
+              {
+                "name": "脆餅香草風味冰淇淋",
+                "imgUrl": "https://yoti.life/wp-content/uploads/20160427105518_9.jpg",
+                "price": 50,
+                "type": "綿綿冰",
+                "id": 26
+              },
+              {
+                "name": "脆餅鮮奶芋頭冰淇淋",
+                "imgUrl": "https://i.imgur.com/AZovYLn.jpg",
+                "price": 55,
+                "type": "綿綿冰",
+                "id": 27
+              }
+        ]
+      }
+    ]
+  }
